@@ -1,0 +1,18 @@
+
+
+header{
+display: block;
+background-color: #000000;
+width: 1200px;
+height: 100px;
+margin-left: 160px;
+}
+
+.nav-link{
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: sans-serif;
+  margin-left: 160px;
+}
+ 
